@@ -13,7 +13,10 @@ cats:
   - description: ttttt
     name: Test2
 ---
+# Welcome to my awesome page about cats of the internet.
 
-Welcome to my awesome page about cats of the internet.
+
+
+<img style="width: 100%" src="/static/img/img_20191105_190734.jpg" />
 
 This page is built with NextJS, and content is managed in Netlify CMS
