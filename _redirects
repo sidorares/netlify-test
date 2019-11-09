@@ -1,0 +1,3 @@
+  
+/static/testauth/* 200! Role=admin
+/static/testauth/ /static/testlogin 404
