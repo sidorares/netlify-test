@@ -1,3 +1,4 @@
   
 /static/testauth/* 200! Role=admin
+/kittens2 200! Role=kitten
 /static/testauth/ /static/testlogin 404
